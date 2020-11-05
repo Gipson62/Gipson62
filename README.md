@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on a website for my discord bot
 - 🤔 I'm looking for help to make databases in JSON
 - 📫 How to reach me: with my Discord account : ``Gipson62#8015``
-- ⚡ Fun fact: I'm Belgium ^^
+- ⚡ Fun fact: I'm Belgian ^^
 
