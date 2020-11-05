@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Gipson62/Gipson62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,4 +9,4 @@ Here are some ideas to get you started:
 - 🤔 I'm looking for help to make databases in JSON
 - 📫 How to reach me: with my Discord account : ``Gipson62#8015``
 - ⚡ Fun fact: I'm Belgium ^^
--->
+
