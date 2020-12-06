@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
 
-Here are some ideas to get you started:
+### All of my activities
 
 - 🔭 I’m currently working on my own discord bot : "Maid-Bot"
 - 🌱 I’m currently learning Javascript, HTML, and maybe start to learning AI concept
