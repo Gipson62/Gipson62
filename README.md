@@ -10,6 +10,6 @@
 ## ⚡ Stats
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Gipson62&theme=tokyonight&show_icons=true&include_all_commits=true" alt="quentin72000's Github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gipson62&theme=merko&show_icons=true&count_private=true" alt="Gipson62's Github stats">
 </p>
 
