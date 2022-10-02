@@ -4,7 +4,7 @@
 
 ### All of my activities
 
-- 🔭 I’m currently working on my own video game : "Stamina"
+- 🔭 I’m currently working on my own video game with [RedGear Studio](https://github.com/RedGear-Studio)
 - 🌱 I’m using GDscript and Godot to create my game
 - 📫 How to reach me ? 
    - With my Discord account : `Gipson62#8015`
@@ -13,8 +13,6 @@
    - Building a module system to simplify the creation of multiplayer Games with Godot and later Unity and Unreal Engine
 
 ## ⚡ Stats
-<p align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gipson62&show_icons=true&theme=radical&locale=en&layout=compact" alt="gamers-geek" /></p><br><br><br><br><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Gipson62&theme=radical&show_icons=true&count_private=true" alt="Gipson62's Github stats">
 </p>
 
