@@ -13,6 +13,7 @@
    - Building a module system to simplify the creation of multiplayer Games with Godot and later Unity and Unreal Engine
 
 ## ⚡ Stats
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gipson62&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Gipson62's Github stats" /></p>
 <img src="https://github-readme-stats.vercel.app/api?username=Gipson62&theme=radical&show_icons=true&count_private=true" alt="Gipson62's Github stats">
 </p>
 
