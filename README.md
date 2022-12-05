@@ -4,13 +4,12 @@
 
 ### All of my activities
 
-- 🔭 I’m currently working on my own video game with [RedGear Studio](https://github.com/RedGear-Studio)
-- 🌱 I’m using GDscript and Godot to create my game
+- 🔭 I’m currently working with [RedGear Studio](https://github.com/RedGear-Studio)
+- 🐛 I'm working on my own programming language : [Reg-lang](https://github.com/Gipson62/Reg-lang)
 - 📫 How to reach me ? 
    - With my Discord account : `Gipson62#8015`
    - With my Twitter account : `@Gipson62_8015`
-- 💕 Fan of the OpenSource :
-   - Building a module system to simplify the creation of multiplayer Games with Godot and later Unity and Unreal Engine
+- 💕 Fan of the OpenSource
 
 ## ⚡ Stats
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gipson62&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Gipson62's Github stats" /></p>
