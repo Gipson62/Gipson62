@@ -9,7 +9,7 @@ SVA is based on the MIPS architecture, and designed with scalability in mind, me
 I'm developing SVA and Reg-Lang in my free time and as a hobby, so progress may be slow, but I'm passionate about it and committed to making it a reality.
 
 If you're interested in following along or contributing to the project, feel free to contact me on Discord at `Gipson62#8015`, or follow me on Twitter at `Gipson62_8015`.
-##Open Source
+## Open Source
 
 I'm a big fan of the open source movement and believe that sharing knowledge and collaborating on projects can have a positive impact on the world. Therefore, both SVA and Reg-Lang are open source projects (under the MIT and Beerware License), and I welcome any feedback, suggestions, or contributions. Thank you for your interest!
 
