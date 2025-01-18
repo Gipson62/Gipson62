@@ -9,5 +9,4 @@ I'm a big fan of the open source movement and believe that sharing knowledge and
 ## ⚡ Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Gipson62&theme=radical&show_icons=true&count_private=true" alt="Gipson62's Github stats">
 </p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gipson62&theme=radical" alt="Gipson62" /></p>
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gipson62&theme=radical" alt="Gipson62" /></a> </p>
